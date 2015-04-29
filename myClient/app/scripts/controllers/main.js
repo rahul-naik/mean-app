@@ -10,7 +10,7 @@
 angular.module('myClientApp')
   .controller('MainCtrl', function ($scope) {
     $scope.awesomeThings = [
-      'HTML5 Boilerplate',
+      'Rahul',
       'AngularJS',
       'Karma'
     ];
